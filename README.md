@@ -1,4 +1,4 @@
-Lagrangian 2D Fluid Simulation Using SPH
+# Lagrangian 2D Fluid Simulation Using SPH
 Overview
 This project implements a 2D fluid simulation from scratch using Smoothed Particle Hydrodynamics (SPH). It models a dynamic wave collapse within a constrained tank, treating the water as a weakly compressible fluid via the stiff Tait equation of state.
 
